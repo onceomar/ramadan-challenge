@@ -1,0 +1,87 @@
+body{
+    background-image:url('images/slide.jpg')!important;
+
+}
+a:hover{
+    cursor:pointer;
+    color:rgb(107, 49, 49) !important;
+}
+.header-home{
+    background-color:#A275E3 !important;
+    opacity:100%;
+}
+
+h1,h4,h6,figure,img{
+    color:white !important;
+}
+
+.content content-header h2{
+    color:#000 !important;
+}
+
+#services{
+    background-color:#FA86BE;
+}
+
+.curveDownColor{
+    background-color:#ad6286 !important;
+}
+.curveUpColor{
+    background-color:#ad6286 !important;
+}
+
+#work{
+    background-color:#393E46;      
+}
+
+div.wrap.services-wrap{
+    background-color:#FA86BE;
+}
+
+svg.curveDownColor{
+    background-color:#A275E3;
+}
+
+div{
+    opacity:97%;
+}
+
+#blog{
+    background-color:#FA86BE;
+}
+
+#blog p{
+    color:#fff;
+}
+
+div.post{
+    background-color:#393E46;
+}
+
+.post-img{
+    background-color:#393E46;
+}
+
+.post-wrap{
+    background-color:#393E46;
+}
+
+ul.plan-wrap{
+    border:none !important;
+}
+
+#pricing{
+    background-color:#242425 !important;
+}
+
+#team{
+    background-color: #393E46;
+}
+
+h5{
+    color:#242425 !important;
+}
+
+.work-info staff-info.span{
+    color:#242425;
+}

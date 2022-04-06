@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 2px blue solid;
+    background-color: #2e2e2e;
+}
+
+main{
+    display: block;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    position: relative;
+    width: 500px;
+    height: 100px;
+
+}
+
+img{
+    display: inline-block;
+    position: relative;
+    height: 500px;
+    width: 500px;
+}
+
+p{
+    position: relative;
+    display: block;
+    font-size: 24px;
+    color: #000;
+    bottom: 0;
+}
