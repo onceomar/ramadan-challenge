@@ -1,0 +1,1 @@
+my_list = ['omar','lolo','lol']
