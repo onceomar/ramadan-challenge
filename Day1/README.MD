@@ -1,0 +1,1 @@
+This is an app that changes the div's background color every 1s
