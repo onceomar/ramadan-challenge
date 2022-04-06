@@ -1,0 +1,100 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    height:400vh
+}
+
+main{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    /* top:100px; */
+    background-color:#a9d3ee;
+}
+
+header{
+    position: fixed;
+    width:100%;
+    height: 100px;
+    background-color:rgba(115, 103, 203, 0);
+    display:flex;
+    flex-flow: column;
+    align-items: flex-end;
+    z-index: 50;
+    /* justify-content: space-around; */
+    /* flex:1; */
+}
+
+ul{
+    position: relative;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    flex:1;
+    list-style:none;
+    right:5%;
+}
+
+li,i{
+    position: relative;
+    font-weight: 600;
+    /* margin-left:50px; */
+    margin-right:50px;
+    color:#FFF;
+}
+
+.banner{
+    position: relative;
+    /* background-color: aqua; */
+    width:100%;
+    height: 1014px;
+    border:none;
+    /* background-image: url('pics/illustrations/banner1.jpg');
+    background-position: center;
+    background-repeat: repeat-x; */
+}
+
+#nasa_logo{
+    position: absolute;
+    width:90.58px;
+    height:79px;
+    display:flex;
+    left: 0%;
+    top: 0%;
+    margin:11px;
+    align-self: center;
+    /* justify-self: center; */
+}
+
+.more{
+    position: relative;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #a9d3ee;
+    width:100%;
+    height: 36px;
+    top: 0;
+
+}
+
+#down{
+    font-weight: 700;
+    color: #000;
+}
+
+#banner_img{
+    position: relative;
+    width: 100%;
+    height:1014px;
+    /* opacity: 92%; */
+    padding: 0;
+    margin:0;
+    border: none;
+}
